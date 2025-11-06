@@ -211,3 +211,4 @@ rec-env/*
 *.csv
 Project/data/Electronics*
 Project/data/Books*
+Project/data/book*
